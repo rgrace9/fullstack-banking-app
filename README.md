@@ -1,3 +1,5 @@
+This project is based on the coding tutorial in the article, Create a Full Stack Banking Application using React https://medium.com/javascript-in-plain-english/create-a-fullstack-banking-application-using-react-e8c96d74cd39
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
